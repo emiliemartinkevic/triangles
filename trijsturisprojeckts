@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="icon" type="image/x-icon" href="icon.png">
+<title>Start</title>
+</head>
+<body>
+<center>
+     <h1 style="background-color:DodgerBlue;">Emili Martinkevica</h1>
+<nav>
+<a href="index.html">Start</a> <a href="index1.html">First page</a>  <a href="index.html">Second page</a><a href="table.html">Table</a>
+<br>
+<div>
+<img src="img/icon.png" alt=" navigācijas poga ar bultiņu augša" border="10px" width="5%">
+<img src="img/star.png" alt=" navigācijas poga ar bultiņu augša" border="2px" width="10%">
+<img src="img/shape.png" alt=" navigācijas poga ar bultiņu augša" border="5px" width="7%">
+</div>
+</center>
+</body>
+</html>
